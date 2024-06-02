@@ -25,7 +25,7 @@
 		<ProduceReferenceAssembly>false</ProduceReferenceAssembly>
 
 		<!-- I'll keep the NetAnalyzers version matching the TargetFrameworks "Core" version. -->
-		<_SkipUpgradeNetAnalyzersNuGetWarning >true</_SkipUpgradeNetAnalyzersNuGetWarning>
+		<_SkipUpgradeNetAnalyzersNuGetWarning>true</_SkipUpgradeNetAnalyzersNuGetWarning>
 
 		<!-- Make the assembly, file, and NuGet package versions the same. -->
 		<Version>1.2.2</Version>
